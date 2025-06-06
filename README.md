@@ -21,7 +21,7 @@
 
 ```text
 project-archive/
-├── code-sample/
+├── sql-hub/
 ├── dev-sample/
 ├── sample-scripts/
 ├── sample-tools/
