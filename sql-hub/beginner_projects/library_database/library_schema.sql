@@ -1,0 +1,1 @@
+-- to create tables (books, authors, etc.)

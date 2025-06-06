@@ -1,0 +1,1 @@
+-- for all practice queries (like monthly spending breakdown)

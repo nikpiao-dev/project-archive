@@ -1,0 +1,1 @@
+-- to create tables (expenses, categories, accounts, users)
