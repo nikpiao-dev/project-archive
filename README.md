@@ -19,6 +19,7 @@
 
 ## 📂 Folder Structure
 
+```text
 project-archive/
 ├── code-sample/
 ├── dev-sample/
@@ -26,6 +27,7 @@ project-archive/
 ├── sample-tools/
 ├── sample-data-structures/
 └── experimental-codes/
+```
 
 > *Note: Folder names and structure may change as more projects are added.*
 
